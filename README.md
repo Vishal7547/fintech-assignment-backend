@@ -22,7 +22,7 @@ MONGODB_URI=your_mongodb_uri
 
 ## Running the Server
 
-- To start the backend server, run: `npm start`.
+- To start the backend server, run: `npm run dev`.
 - The server will start at `http://localhost:5000`.
 
   ## API Endpoints
